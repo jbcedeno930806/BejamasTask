@@ -1,0 +1,1438 @@
+{
+  "products": [
+    {
+      "name": "Red Bench",
+      "category": "home",
+      "price": 3.89,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img2.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Egg Balloon",
+      "category": "food",
+      "price": 93.89,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img7.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Man",
+      "category": "people",
+      "price": 100,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img3.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Architecture",
+      "category": "home",
+      "price": 123,
+      "currency": "USD",
+      "dimmentions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "./img/img4.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Samurai King Restling",
+      "category": "landmarks",
+      "price": 41.8,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img5.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": true,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        },
+        "size": 15000,
+        "description": "So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely scrambled part of Cicero's De Finibus in order to provide placeholder text to mockup various fonts for a type specimen book.So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely scrambled part of Cicero's De Finibus in order to provide placeholder text to mockup various fonts for a type specimen book.So how did the classical Latin become so incoherent? According to McClintock.",
+        "recommendations": [
+          {
+            "src": "./img/img5.jpg",
+            "alt": "img.png"
+          },
+          {
+            "src": "./img/img6.jpg",
+            "alt": "img.png"
+          },
+          {
+            "src": "./img/img7.jpg",
+            "alt": "img.png"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Red Bench",
+      "category": "pets",
+      "price": 23.89,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img6.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Egg Balloon",
+      "category": "home",
+      "price": 67.89,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img7.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Man",
+      "category": "people",
+      "price": 51.4,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img4.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Architecture",
+      "category": "landmarks",
+      "price": 89.55,
+      "currency": "USD",
+      "dimmentions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "./img/img7.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Red Bench",
+      "category": "people",
+      "price": 44,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img5.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Egg Balloon",
+      "category": "home",
+      "price": 20.9,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img2.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Man",
+      "category": "pets",
+      "price": 23,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img3.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Architecture",
+      "category": "home",
+      "price": 11,
+      "currency": "USD",
+      "dimmentions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "./img/img2.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Red Bench",
+      "category": "home",
+      "price": 18,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img7.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Egg Balloon",
+      "category": "pets",
+      "price": 2,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img7.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Man",
+      "category": "people",
+      "price": 50,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img3.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Architecture",
+      "category": "pets",
+      "price": 20,
+      "currency": "USD",
+      "dimmentions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "./img/img2.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Red Bench",
+      "category": "pets",
+      "price": 75.2,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img4.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Egg Balloon",
+      "category": "food",
+      "price": 15,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img5.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Man",
+      "category": "people",
+      "price": 21,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img3.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Architecture",
+      "category": "pets",
+      "price": 160,
+      "currency": "USD",
+      "dimmentions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "./img/img4.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Red Bench",
+      "category": "people",
+      "price": 44,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img4.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Egg Balloon",
+      "category": "pets",
+      "price": 65,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img6.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Man",
+      "category": "people",
+      "price": 8,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img6.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Architecture",
+      "category": "pets",
+      "price": 48,
+      "currency": "USD",
+      "dimmentions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "./img/img5.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Red Bench",
+      "category": "people",
+      "price": 32.3,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img2.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Egg Balloon",
+      "category": "food",
+      "price": 110,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img4.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Man",
+      "category": "people",
+      "price": 44,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img3.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Architecture",
+      "category": "home",
+      "price": 25,
+      "currency": "USD",
+      "dimmentions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "./img/img5.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Red Bench",
+      "category": "people",
+      "price": 35.4,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img2.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Egg Balloon",
+      "category": "food",
+      "price": 47.89,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img5.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Man",
+      "category": "home",
+      "price": 58,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img3.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Architecture",
+      "category": "landmarks",
+      "price": 69,
+      "currency": "USD",
+      "dimmentions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "./img/img4.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Red Bench",
+      "category": "pets",
+      "price": 82.89,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img2.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Egg Balloon",
+      "category": "food",
+      "price": 79.89,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img7.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Man",
+      "category": "people",
+      "price": 158,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img6.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Architecture",
+      "category": "landmarks",
+      "price": 22,
+      "currency": "USD",
+      "dimmentions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "./img/img3.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Red Bench",
+      "category": "people",
+      "price": 35.89,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img6.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Egg Balloon",
+      "category": "pets",
+      "price": 65.89,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img3.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Man",
+      "category": "people",
+      "price": 62,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img6.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Architecture",
+      "category": "landmarks",
+      "price": 1,
+      "currency": "USD",
+      "dimmentions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "./img/img2.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Red Bench",
+      "category": "pets",
+      "price": 78,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img7.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Egg Balloon",
+      "category": "food",
+      "price": 90,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img4.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Man",
+      "category": "home",
+      "price": 77,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img3.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Architecture",
+      "category": "pets",
+      "price": 76,
+      "currency": "USD",
+      "dimmentions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "./img/img5.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Red Bench",
+      "category": "pets",
+      "price": 85,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img2.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Egg Balloon",
+      "category": "home",
+      "price": 93.89,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img7.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Man",
+      "category": "people",
+      "price": 110,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img2.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Architecture",
+      "category": "landmarks",
+      "price": 151,
+      "currency": "USD",
+      "dimmentions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "./img/img3.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Red Bench",
+      "category": "people",
+      "price": 55,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img2.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Egg Balloon",
+      "category": "food",
+      "price": 36.89,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img4.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Man",
+      "category": "people",
+      "price": 21,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img5.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Architecture",
+      "category": "pets",
+      "price": 43,
+      "currency": "USD",
+      "dimmentions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "./img/img6.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Red Bench",
+      "category": "people",
+      "price": 34.89,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img7.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Egg Balloon",
+      "category": "food",
+      "price": 73.89,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img5.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Man",
+      "category": "pets",
+      "price": 10,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img3.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Architecture",
+      "category": "landmarks",
+      "price": 101,
+      "currency": "USD",
+      "dimmentions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "./img/img5.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Red Bench",
+      "category": "people",
+      "price": 89,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img7.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Egg Balloon",
+      "category": "pets",
+      "price": 52,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img2.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Man",
+      "category": "people",
+      "price": 6,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img4.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Architecture",
+      "category": "pets",
+      "price": 141,
+      "currency": "USD",
+      "dimmentions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "./img/img6.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Red Bench",
+      "category": "people",
+      "price": 131,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img7.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Egg Balloon",
+      "category": "food",
+      "price": 137.89,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img4.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Man",
+      "category": "people",
+      "price": 78,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img6.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Architecture",
+      "category": "landmarks",
+      "price": 87,
+      "currency": "USD",
+      "dimmentions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "./img/img3.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Red Bench",
+      "category": "pets",
+      "price": 39,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img5.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Egg Balloon",
+      "category": "food",
+      "price": 89,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img2.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Man",
+      "category": "people",
+      "price": 92,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img4.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Architecture",
+      "category": "home",
+      "price": 96,
+      "currency": "USD",
+      "dimmentions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "./img/img2.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Red Bench",
+      "category": "people",
+      "price": 76.89,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img2.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Egg Balloon",
+      "category": "food",
+      "price": 99,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img7.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Man",
+      "category": "people",
+      "price": 100,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img3.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Architecture",
+      "category": "pets",
+      "price": 31,
+      "currency": "USD",
+      "dimmentions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "./img/img4.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Red Bench",
+      "category": "people",
+      "price": 39,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img2.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Egg Balloon",
+      "category": "food",
+      "price": 9.89,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img7.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Man",
+      "category": "home",
+      "price": 4,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img3.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Architecture",
+      "category": "landmarks",
+      "price": 8,
+      "currency": "USD",
+      "dimmentions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "./img/img4.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Red Bench",
+      "category": "people",
+      "price": 123.89,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img2.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Egg Balloon",
+      "category": "pets",
+      "price": 162,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img7.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Man",
+      "category": "people",
+      "price": 100,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img3.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Architecture",
+      "category": "landmarks",
+      "price": 126,
+      "currency": "USD",
+      "dimmentions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "./img/img4.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Red Bench",
+      "category": "pets",
+      "price": 39,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img2.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Egg Balloon",
+      "category": "food",
+      "price": 98,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img7.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Man",
+      "category": "people",
+      "price": 4,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img3.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Architecture",
+      "category": "landmarks",
+      "price": 112,
+      "currency": "USD",
+      "dimmentions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "./img/img4.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Red Bench",
+      "category": "people",
+      "price": 7.39,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img2.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Egg Balloon",
+      "category": "food",
+      "price": 6.89,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img7.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Man",
+      "category": "people",
+      "price": 14,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img3.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Architecture",
+      "category": "home",
+      "price": 21,
+      "currency": "USD",
+      "dimmentions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "./img/img4.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Red Bench",
+      "category": "people",
+      "price": 28,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img2.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Egg Balloon",
+      "category": "food",
+      "price": 38,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img7.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Man",
+      "category": "people",
+      "price": 43,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img3.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Architecture",
+      "category": "landmarks",
+      "price": 51,
+      "currency": "USD",
+      "dimmentions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "./img/img4.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Red Bench",
+      "category": "people",
+      "price": 58,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img2.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Egg Balloon",
+      "category": "food",
+      "price": 63.9,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img7.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Man",
+      "category": "pets",
+      "price": 70,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img3.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Architecture",
+      "category": "home",
+      "price": 72,
+      "currency": "USD",
+      "dimmentions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "./img/img4.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Red Bench",
+      "category": "people",
+      "price": 74,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img2.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Egg Balloon",
+      "category": "food",
+      "price": 76,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img7.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Man",
+      "category": "people",
+      "price": 83,
+      "currency": "USD",
+      "image": {
+        "src": "./img/img3.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Architecture",
+      "category": "pets",
+      "price": 101,
+      "currency": "USD",
+      "dimmentions": {
+        "width": 1020,
+        "height": 1020
+      },
+      "image": {
+        "src": "./img/img4.jpg",
+        "alt": "img.png"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    }
+  ]
+}
