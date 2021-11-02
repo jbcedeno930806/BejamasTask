@@ -1,7 +1,6 @@
 import "./App.css";
 import React from "react";
 import Pagination from "react-bootstrap/Pagination";
-import close from "./close.svg";
 
 class ProductCard extends React.Component {
   constructor(props) {
@@ -194,7 +193,7 @@ class Cart extends React.Component {
     return (
       <div className="cart-container">
         <img
-          src={process.env.PUBLIC_URL + "/assets/imgs/cart.svg"}
+          src={process.env.PUBLIC_URL + "./assets/imgs/cart.svg"}
           alt="My Cart"
           className="cart"
           onClick={() => this.openCart()}
@@ -211,7 +210,7 @@ class Cart extends React.Component {
           {
             <div className="cart-close">
               <img
-                src={close}
+                src={process.env.PUBLIC_URL + "./assets/imgs/close.svg"}
                 alt="Close"
                 onClick={() => this.closeCart()}
               ></img>
@@ -411,7 +410,7 @@ class App extends React.Component {
           <nav>
             <div className="logo-container">
               <img
-                src={process.env.PUBLIC_URL + "/assets/imgs/logo.png"}
+                src={process.env.PUBLIC_URL + "./assets/imgs/logo.png"}
                 alt="logo"
               />
             </div>
@@ -438,7 +437,7 @@ class App extends React.Component {
             <div className="filters">
               <img
                 className="filter-img"
-                src={process.env.PUBLIC_URL + "/assets/imgs/filters.svg"}
+                src={process.env.PUBLIC_URL + "./assets/imgs/filters.svg"}
                 alt="Filter.png"
               ></img>
             </div>
@@ -572,7 +571,7 @@ class SortBy extends React.Component {
       <div className="sort">
         <img
           className="sort_arrow"
-          src={process.env.PUBLIC_URL + "/assets/imgs/arrow-up.svg"}
+          src={process.env.PUBLIC_URL + "./assets/imgs/arrow-up.svg"}
           alt="Arrow"
           onClick={() => {
             this.sort(false, this.state.sortType);
@@ -580,7 +579,7 @@ class SortBy extends React.Component {
         ></img>
         <img
           className="sort_arrow"
-          src={process.env.PUBLIC_URL + "/assets/imgs/arrow-down.svg"}
+          src={process.env.PUBLIC_URL + "./assets/imgs/arrow-down.svg"}
           alt="Arrow"
           onClick={() => {
             this.sort(true, this.state.sortType);
@@ -798,5 +797,5 @@ class FilterComponent extends React.Component {
 export { App };
 
 {
-  /* src={process.env.PUBLIC_URL + "/assets/imgs/cart.svg"} */
+  /* src={process.env.PUBLIC_URL + "./assets/imgs/cart.svg"} */
 }
